@@ -1,0 +1,18 @@
+
+cmd - e : yabai -m window --toggle split
+cmd - b : yabai -m space --balance
+cmd - p : ~/.yabaiScripts/toggleLayout.py
+cmd + lshift - q : yabai -m window --close 
+
+alt - 1 : ~/.yabaiScripts/activateWindow.py 1
+alt - 2 : ~/.yabaiScripts/activateWindow.py 2
+alt - 3 : ~/.yabaiScripts/activateWindow.py 3
+alt - 5 : ~/.yabaiScripts/activateWindow.py 5
+alt - 6 : ~/.yabaiScripts/activateWindow.py 6
+alt - 7 : ~/.yabaiScripts/activateWindow.py 7
+alt - 8 : ~/.yabaiScripts/activateWindow.py 8
+alt - 9 : ~/.yabaiScripts/activateWindow.py 9
+cmd - q : yabai -m window --focus recent
+
+
+
